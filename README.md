@@ -5,7 +5,7 @@
 DAOs usually share decision power in their members through tokens and register the votes on a blockchain.
 They can use the power of smart contracts to automatically trigger actions on the blockchain once a resolution is voted
 but this is rarely more complex than performing coins or token transfers.
-We present here a system that allow DAOs to implement complex actions automation following a decision.
+We present here a system that allow DAOs to implement complex actions' automation following a decision.
 Since it is very similar to IaC in its principles, we call it DaC (Decision as Code).
 
 
